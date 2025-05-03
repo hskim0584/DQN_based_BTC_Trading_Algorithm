@@ -30,7 +30,7 @@ pip install keras
 ## Dataset
 
 download from [HERE](https://drive.google.com/file/d/1H0koXr2UTDhCPQE_sJnZ3XPiZH07cXTn/view?usp=drive_link)
-
+ (If it's impossible, contact us !)
 
 ## Result
 ### baseline
